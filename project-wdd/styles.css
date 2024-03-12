@@ -32,7 +32,7 @@ body {
   font-weight: 400;
   line-height: 1.6;
   color: var(--dark-color);
-  background:#53158d;
+  background:#c0507f;
 }
 
 li,
@@ -625,8 +625,8 @@ h4 {
 }
 
 .cart__details p {
-  font-size: 1.8rem;
-  color: var(--grey-color-alt);
+  font-weight: bold;
+  color: yellow;
   margin-bottom: 1.6rem;
 }
 
@@ -669,7 +669,7 @@ h4 {
   padding: 1.3rem;
   border: 1px solid var(--grey-color-alt);
   border-radius: 0.3rem;
-  color: var(--dark-color-altr);
+  color: greenyellow;
   font-weight: 600;
   font-size: 1.7rem;
   background-color: transparent;
@@ -957,6 +957,7 @@ h4 {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 2rem 0;
+  color: yellow ;
 }
 
 @media only screen and (max-width: 996px) {
