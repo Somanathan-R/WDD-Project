@@ -1,1 +1,1 @@
-# WDD-Project
+# WDD-Project (E-Commerce Webpage)
